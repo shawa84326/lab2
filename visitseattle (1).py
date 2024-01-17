@@ -10,8 +10,8 @@ url = "https://visitseattle.org/events/page/1"
 # DELETE -> DELETE
 
 # requests.post("https://concert.com/buy")
-# requests.put("https://github.com/rgulla")
-# requests.delete("https://facebook.com/ravinder.gulla/post/1")
+# requests.put("https://github.com/shawa84326")
+# requests.delete("https://facebook.com/ankit.shaw.sanatani/post/1")
 
 res = requests.get(url)
 
