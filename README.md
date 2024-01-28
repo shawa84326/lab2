@@ -1,2 +1,4 @@
-Please ignore a.py
-you may run th ejupiter notebook
+Please ignore a.py.
+
+
+you may run the jupiter notebook
