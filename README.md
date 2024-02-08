@@ -51,5 +51,5 @@ This project involves scraping events happening in Seattle from the [Visit Seatt
 ## Instructions for Running the Script
 
 1. Install the required Python packages by running `pip install -r requirements.txt`.
-2. Execute the script by running `python scrape_events.py`.
+2. Execute the notebook by running `vistsestlle_events(2).ipynb`.
 
